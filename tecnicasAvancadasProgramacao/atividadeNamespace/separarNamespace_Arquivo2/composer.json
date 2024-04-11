@@ -1,0 +1,15 @@
+{
+    "name": "app/src",
+    "description": "separar arquivos com namespace",
+    "autoload": {
+        "psr-4": {
+            "App\\Src\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "joao vitor"
+        }
+    ],
+    "require": {}
+}
